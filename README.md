@@ -3,7 +3,7 @@
 Welcome to the Computer Vision Research project! This guide will help you navigate through the assignment and get started with development.
 
 ## 📋 Quick Links
-- [Assignment Details](README.md) - Detailed description of the tasks and requirements
+- [Assignment Details](ASSIGNMENT.md) - Detailed description of the tasks and requirements
 - [GitHub Setup Guide](GITHUB_GUIDE.md) - Step-by-step instructions for Git and GitHub setup
 
 ## 🗺️ Project Navigation
