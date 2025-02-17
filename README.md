@@ -111,18 +111,7 @@ A: Check the requirements section in ASSIGNMENT.md for allowed dependencies.
 3. After U-Net architecture changes
 4. Before final submission
 
-## 📅 Timeline Overview
 
-### Month 1
-```
-Week 1: ViT Setup & Basics
-Week 2: ViT Advanced Features
-```
-
-### Month 2
-```
-Week 3: U-Net Setup & Modification
-Week 4: U-Net Training & Completion
 ```
 
 ## 🎓 Learning Outcomes
