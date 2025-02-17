@@ -89,10 +89,10 @@ A: Check the troubleshooting section in GITHUB_GUIDE.md first.
 
 #### Development
 Q: How detailed should my implementation be?
-A: Follow the checklists in README.md for each component.
+A: Follow the checklists in ASSIGNMENT.md for each component.
 
 Q: Can I use external libraries?
-A: Check the requirements section in README.md for allowed dependencies.
+A: Check the requirements section in ASSIGNMENT.md for allowed dependencies.
 
 ## 🔍 Progress Tracking
 
